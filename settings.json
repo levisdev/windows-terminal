@@ -46,7 +46,7 @@
                 "size": 13,
                 "weight": "normal"
             },
-            "opacity": 50,
+            "opacity": 65,
             "padding": "2,5,2,0",
             "scrollbarState": "hidden",
             "startingDirectory": "%USERPROFILE%",
