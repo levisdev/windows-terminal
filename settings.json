@@ -42,7 +42,7 @@
             "cursorShape": "filledBox",
             "font": 
             {
-                "face": "Hack NF",
+                "face": "Hack Nerd Font",
                 "size": 13,
                 "weight": "normal"
             },
@@ -82,13 +82,13 @@
                 "source": "Windows.Terminal.Wsl"
             },
             {
-                "guid": "{264e836b-fa46-58d5-a99f-7c325afcc41c}",
+                "guid": "{e221a505-61c1-5cfe-aa34-902cb334d34c}",
                 "hidden": false,
                 "name": "Developer Command Prompt for VS 2022",
                 "source": "Windows.Terminal.VisualStudio"
             },
             {
-                "guid": "{6c1abc72-b97f-52bb-a9d5-dd2192c09429}",
+                "guid": "{43c524c6-673b-53a0-a7f4-49a9f30acba1}",
                 "hidden": false,
                 "name": "Developer PowerShell for VS 2022",
                 "source": "Windows.Terminal.VisualStudio"
