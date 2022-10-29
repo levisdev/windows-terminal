@@ -40,12 +40,14 @@
         {
             "colorScheme": "OneDark",
             "cursorShape": "filledBox",
+            "experimental.retroTerminalEffect": false,
             "font": 
             {
                 "face": "Hack Nerd Font",
                 "size": 13,
                 "weight": "normal"
             },
+            "intenseTextStyle": "bright",
             "opacity": 75,
             "padding": "2,5,2,0",
             "scrollbarState": "hidden",
